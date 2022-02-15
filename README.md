@@ -14,8 +14,9 @@ https://learn.hashicorp.com/tutorials/terraform/github-actions
 
 ## Workflow - update the main branch
 
-1. Go to the Create a new Workspace page and select "API-driven workflow".  
-2. modify Terraform configuration on feature branch.
-3. Create and merge a pull request.
+1. Go to the Create a new Workspace page and select "API-driven workflow". 
+2. Navigate to the "Actions" tab and enable this pre-configured workflow by clicking "I understand my workflows, go ahead and enable them." 
+3. modify Terraform configuration on feature branch.
+4. Create and merge a pull request.
 
 
